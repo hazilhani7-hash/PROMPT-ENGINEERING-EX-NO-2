@@ -1,7 +1,7 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 ## DATE:12.03.2026
 ## REG NO:212223020017
-## NAME: SHARVESHWARN SS
+## NAME: Mohammed Hazil H
 
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
