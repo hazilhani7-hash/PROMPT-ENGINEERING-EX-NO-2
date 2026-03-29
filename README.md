@@ -1,5 +1,5 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-## DATE:12.03.2026
+
 ## REG NO:212223020017
 ## NAME: Mohammed Hazil H
 
